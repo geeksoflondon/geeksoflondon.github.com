@@ -1,4 +1,4 @@
-{% if paginator.previous_page ||  paginator.next_page %}
+{% if paginator.total_pages > 1 %}
 <div class="pagination">
 
   {% if paginator.previous_page %}
