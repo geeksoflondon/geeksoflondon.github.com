@@ -1,0 +1,17 @@
+---
+layout: default
+title: home
+---
+<p class="info">
+  Welcome to Geeks of London! We organise meetups for all different types of geeks, from movie geeks and comic book geeks, to scifi geeks and ice cream geeks.
+  <br/><br/>
+  We hold various events/meetups, from small meetup events to BarCamps, HackCamps, and other unconferences. Have a look at the upcoming events section to see some of out upcoming events.
+</p>
+
+<hr/>
+
+{% for post in paginator.posts %}
+  {% include post.html %}
+{% endfor %}
+
+{% include pagination.html %}
