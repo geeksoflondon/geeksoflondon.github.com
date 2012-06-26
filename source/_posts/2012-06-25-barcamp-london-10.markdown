@@ -3,7 +3,7 @@ layout: post
 title: "BarCamp London 10?"
 date: 2012-06-25 19:03
 comments: true
-published: false
+published: true
 categories: Notices
 ---
 
