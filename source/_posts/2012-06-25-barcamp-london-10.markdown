@@ -15,4 +15,4 @@ So here's a call to arms: **you** should run BarCamp London this year!
 
 We welcome any group of people excited enough to give it a try. We might not be able to help directly but we think we've worked very hard in the last few years to make it easier for someone to take it over from us. We have a large list of regular attendees, the mailing lists, the twitter account, the domains, and most importantly the relationships with our previous sponsors.
 
-So let us know on [info@geeksoflondon.com](info@geeksoflondon.com) if you want to run BarCamp London this year, we are looking forward to BarCamp London 10!
+So let us know on [info@geeksoflondon.com](info@geeksoflondon.com) if you want to run it this year, we are looking forward to attending your BarCamp London 10!
