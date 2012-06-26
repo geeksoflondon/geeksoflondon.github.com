@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "BarCamp London 10?"
-date: 2012-06-25 19:03
+date: 2012-06-26 15:29
 comments: true
 published: true
 categories: Notices
