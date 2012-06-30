@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "The Geeks of London Movie Club"
-date: 2012-06-25 19:18
+date: 2012-06-30 15:00
 comments: true
-published: false
+published: true
 categories: Movies
 ---
 
