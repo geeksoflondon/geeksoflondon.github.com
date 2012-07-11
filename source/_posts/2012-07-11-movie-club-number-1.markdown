@@ -3,7 +3,7 @@ layout: post
 title: "Movie Club #1"
 date: 2012-07-11 11:23
 comments: true
-published: false
+published: true
 categories: Movies
 ---
 
@@ -22,7 +22,7 @@ Our first movie will be **The Amazing Spider-Man**, but the next movies will be 
 
 ## Food
 
-Seeing as this movie isn't starting very early we decided we should meetup before for food instead of after for drinks.
+Seeing as this movie isn't starting very early we decided we should meet up before for food instead of after for drinks.
 
 * [Wagamama @ The O2](http://www.wagamama.com/locations/showlocation/730/)
 * Monday July 16th, 19:00
