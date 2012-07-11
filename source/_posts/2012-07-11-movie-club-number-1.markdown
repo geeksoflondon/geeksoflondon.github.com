@@ -16,9 +16,14 @@ Our first movie will be **The Amazing Spider-Man** but the next movies will be c
 ## When/where/what
 
 * [The Amazing Spider-Man](http://www.imdb.com/title/tt0948470/) in 3D
-* Monday July 16th, 20:40
+* Monday July 16th, 20:40, but we're doing food before, see below.
 * On the Sky screen at the [Cineworld at The O2 Greenwich](http://www.cineworld.co.uk/cinemas/79), which is seriously one of the best screens besides the IMAX.
 * £13.50 regular entry, but we recommend you get a [Cineworld Unlimited Pass](http://geeksoflondon.com/blog/2012/06/30/geeks-of-london-movie-club/) if you intend to come along more often and already live near a Cineworld.
+
+Seeing as this movie isn't starting very early we decided we should meetup before for food instead of after for drinks.
+
+* [Wagamama @ The O2](http://www.wagamama.com/locations/showlocation/730/)
+* Monday July 16th, 19:00
 
 ## RSVP?
 
