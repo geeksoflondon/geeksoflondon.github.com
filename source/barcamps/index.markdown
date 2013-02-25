@@ -12,6 +12,14 @@ If you have never been to a BarCamp before, we would love you to come along to o
 
 ![Lego Logo](/images/pages/lego-logo.jpg)
 
+## Upcoming BarCamps
+
+<div class='events' markdown="1">
+* [BarCamp Berkshire2](http://barcampberkshire.com/)  
+  15th-16th June, 2013  
+  O2 HQ Slough  
+</div>
+
 ## Our past BarCamps
 
 <div class='events' markdown="1">
