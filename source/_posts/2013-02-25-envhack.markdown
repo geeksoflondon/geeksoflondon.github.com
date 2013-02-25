@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Environment Hack - Hacking for a better place"
+date: 2013-02-25 13:03
+comments: true
+categories: hackday
+---
+
+We're happy to announce a new event we're running in collaboration with the Environment Agency in Bristol. Environment Hack will be bringing together software/hardware developers, Environment Agency experts and interesting data. The goal is to create cool demos that showcase how technology can help us all be more green and environmentally responsible.
+
+[Get your ticket now and we will see you in March.](http://envhack.com)
+
+On another note, we have 2 more exciting events coming up this year. Put [BarCamp Berkshire 2](http://lanyrd.com/2013/bcb13/) and [HACKED](http://hacked.io) in your diary and we will notify you in time when tickets will become available.
