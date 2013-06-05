@@ -30,15 +30,18 @@ layout: page
 ## Our past HackCamps
 
 <div class='events' markdown='1'>
-* [HackCamp London](http://london.hackcamp.org.uk/)  
-  12th-13th June, 2010  
-  Google HQ
-* [LinkedGov Data HackCamp](http://linkedgov.hackcamp.org.uk/)  
-  9th-10th April, 2011  
-  LBI Brick Lane
-* [International HackCamp](http://delft.hackcamp.org.uk/)  
-  27th-28th April, 2011  
+* [Environment Hack](http://envhack.com/)
+  16th-17th March, 2013
+  University of Bristol
+* [International HackCamp](http://delft.hackcamp.org.uk/)
+  27th-28th April, 2011
   Delft Armory
+* [LinkedGov Data HackCamp](http://linkedgov.hackcamp.org.uk/)
+  9th-10th April, 2011
+  LBI Brick Lane
+* [HackCamp London](http://london.hackcamp.org.uk/)
+  12th-13th June, 2010
+  Google HQ
 </div>
 
 
