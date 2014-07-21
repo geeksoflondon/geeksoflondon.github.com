@@ -12,18 +12,19 @@ HackCamps are non-profit hack days, which were started when we lost the original
 ## Upcoming Events
 
 <div class='events' markdown='1'>
-* [envhack](http://envhack.com/)  
-  16th-17th March, 2013  
-  Bristol University  
-* [HACKED](http://hacked.io/)  
-  20th-21st July, 2013  
-  Indig02 at The O2, London  
+* None are planned (yet)
 </div>
 
 
 ## Past Events
 
 <div class='events' markdown='1'>
+* [HACKED](http://hacked.io/)  
+  20th-21st July, 2013  
+  Indig02 at The O2, London
+* [envhack](http://envhack.com/)  
+  16th-17th March, 2013  
+  Bristol University  
 * [HackCamp London](http://london.hackcamp.org.uk/)  
   12th-13th June, 2010  
   Google HQ  

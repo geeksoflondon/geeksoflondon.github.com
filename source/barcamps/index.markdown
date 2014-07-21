@@ -15,15 +15,17 @@ If you have never been to a BarCamp before, we would love you to come along to o
 ## Upcoming BarCamps
 
 <div class='events' markdown="1">
-* [BarCamp Berkshire2](http://barcampberkshire.com/)  
-  15th-16th June, 2013  
-  O2 HQ Slough  
+* [BarCamp London 10](http://ten.barcamplondon.org/)  
+  27th-28th September, 20134
+  Microsoft UK  
 </div>
 
 ## Our past BarCamps
 
 <div class='events' markdown="1">
-  
+* [BarCamp Berkshire2](http://barcampberkshire.com/)  
+  15th-16th June, 2013  
+  O2 HQ Slough  
 * [BarCamp Berkshire](http://barcampberkshire.com/)  
   7th–8th July, 2012  
   O2 HQ Slough
