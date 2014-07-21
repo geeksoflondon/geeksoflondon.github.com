@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: hackday | GeeksOfLondon]]></title>
+  <link href="http://geeksoflondon.github.com/blog/categories/hackday/atom.xml" rel="self"/>
+  <link href="http://geeksoflondon.github.com/"/>
+  <updated>2014-07-21T14:01:37+01:00</updated>
+  <id>http://geeksoflondon.github.com/</id>
+  <author>
+    <name><![CDATA[]]></name>
+    <email><![CDATA[info@geeksoflondon.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Environment Hack - Hacking for a better place]]></title>
+    <link href="http://geeksoflondon.github.com/blog/2013/02/25/envhack/"/>
+    <updated>2013-02-25T13:03:00+00:00</updated>
+    <id>http://geeksoflondon.github.com/blog/2013/02/25/envhack</id>
+    <content type="html"><![CDATA[<p>We&#8217;re happy to announce a new event we&#8217;re running in collaboration with the Environment Agency in Bristol. Environment Hack will be bringing together software/hardware developers, Environment Agency experts and interesting data. The goal is to create cool demos that showcase how technology can help us all be more green and environmentally responsible.</p>
+
+<p><a href='http://envhack.com'>Get your ticket now and we will see you in March.</a></p>
+
+<p>On another note, we have 2 more exciting events coming up this year. Put <a href='http://lanyrd.com/2013/bcb13/'>BarCamp Berkshire 2</a> and <a href='http://hacked.io'>HACKED</a> in your diary and we will notify you in time when tickets will become available.</p>]]></content>
+  </entry>
+  
+</feed>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Notices | GeeksOfLondon]]></title>
+  <link href="http://geeksoflondon.github.com/blog/categories/notices/atom.xml" rel="self"/>
+  <link href="http://geeksoflondon.github.com/"/>
+  <updated>2014-07-21T14:01:37+01:00</updated>
+  <id>http://geeksoflondon.github.com/</id>
+  <author>
+    <name><![CDATA[]]></name>
+    <email><![CDATA[info@geeksoflondon.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[BarCamp London 10?]]></title>
+    <link href="http://geeksoflondon.github.com/blog/2012/06/26/barcamp-london-10/"/>
+    <updated>2012-06-26T15:29:00+01:00</updated>
+    <id>http://geeksoflondon.github.com/blog/2012/06/26/barcamp-london-10</id>
+    <content type="html"><![CDATA[<p>The last 3 years we&#8217;ve been running <a href='/barcamps'>BarCamp London</a>. Initially as a loose group from the BarCamp community and eventually as Geeks of London. We enjoyed running them but sadly this year it looks like we&#8217;re simply not going to have the time.</p>
+
+<p>Between <a href='http://barcampberkshire.com'>BarCamp Berkshire</a>, some other events we have planned for later in the year, and all of us getting jobs that are more demanding than in previous years, we simply don&#8217;t have the time.</p>
+
+<p>So here&#8217;s a call to arms: <strong>you</strong> should run BarCamp London this year!</p>
+
+<p>We welcome any group of people excited enough to give it a try. We might not be able to help directly but we think we&#8217;ve worked very hard in the last few years to make it easier for someone to take it over from us. We have a large list of regular attendees, the mailing lists, the twitter account, the domains, and most importantly the relationships with our previous sponsors.</p>
+
+<p>So let us know on <a href='info@geeksoflondon.com'>info@geeksoflondon.com</a> if you want to run it this year, we are looking forward to attending your BarCamp London 10!</p>]]></content>
+  </entry>
+  
+</feed>

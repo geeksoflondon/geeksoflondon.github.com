@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Movies | GeeksOfLondon]]></title>
+  <link href="http://geeksoflondon.github.com/blog/categories/movies/atom.xml" rel="self"/>
+  <link href="http://geeksoflondon.github.com/"/>
+  <updated>2014-07-21T14:01:37+01:00</updated>
+  <id>http://geeksoflondon.github.com/</id>
+  <author>
+    <name><![CDATA[]]></name>
+    <email><![CDATA[info@geeksoflondon.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Movie Club #1]]></title>
+    <link href="http://geeksoflondon.github.com/blog/2012/07/11/movie-club-number-1/"/>
+    <updated>2012-07-11T11:23:00+01:00</updated>
+    <id>http://geeksoflondon.github.com/blog/2012/07/11/movie-club-number-1</id>
+    <content type="html"><![CDATA[<p>This Monday we&#8217;re holding the first <strong>Geeks of London Movie Club</strong>. This will be a monthly meetup for fans of movies to get out of the house and enjoy a movie with other geeks.</p>
+
+<p>Our first movie will be <strong>The Amazing Spider-Man</strong>, but the next movies will be chosen by you.</p>
+
+<p><img alt='The Amazing Spider-Man' src='/images/posts/spiderman.png' /></p>
+
+<h2 id='whenwherewhat'>When/where/what</h2>
+
+<ul>
+<li><a href='http://www.imdb.com/title/tt0948470/'>The Amazing Spider-Man</a> in 3D</li>
+
+<li>Monday July 16th, 20:40, but we&#8217;re doing food before, see below.</li>
+
+<li>On the Sky screen at the <a href='http://www.cineworld.co.uk/cinemas/79'>Cineworld at The O2 Greenwich</a>, which is seriously one of the best screens besides the IMAX.</li>
+
+<li>£13.50 regular entry, but we recommend you get a <a href='http://geeksoflondon.com/blog/2012/06/30/geeks-of-london-movie-club/'>Cineworld Unlimited Pass</a> if you intend to come along more often and already live near a Cineworld.</li>
+</ul>
+
+<h2 id='food'>Food</h2>
+
+<p>Seeing as this movie isn&#8217;t starting very early we decided we should meet up before for food instead of after for drinks.</p>
+
+<ul>
+<li><a href='http://www.wagamama.com/locations/showlocation/730/'>Wagamama @ The O2</a></li>
+
+<li>Monday July 16th, 19:00</li>
+</ul>
+
+<h2 id='rsvp'>RSVP?</h2>
+
+<p>We don&#8217;t have a signup for this event but <a href='http://lanyrd.com/2012/the-geeks-of-london-movie-club-1/'>let us know on Lanyrd if you&#8217;re coming</a>, it would be great to have some numbers.</p>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The Geeks of London Movie Club]]></title>
+    <link href="http://geeksoflondon.github.com/blog/2012/06/30/geeks-of-london-movie-club/"/>
+    <updated>2012-06-30T15:00:00+01:00</updated>
+    <id>http://geeksoflondon.github.com/blog/2012/06/30/geeks-of-london-movie-club</id>
+    <content type="html"><![CDATA[<p>Been missing out on the latest great movies? Not feeling like going to the movies on your own? Introducing: <strong>The Geeks of London Movie Club</strong></p>
+
+<p>Read on or sign up below to get notified of our first outing.</p>
+
+<p><img alt='The Geeks of London Movie Club' src='/images/posts/gol-movie-club.jpg' /></p>
+
+<h2 id='whenwhere'>When/where</h2>
+
+<ul>
+<li>First movie on Monday July 16th: <a href='http://www.imdb.com/title/tt0948470/'>The Amazing Spiderman</a></li>
+
+<li>After this every last Monday of the month, after work hours</li>
+
+<li>At the <a href='http://www.cineworld.co.uk/cinemas/79'>Cineworld at The O2 Greenwich</a></li>
+</ul>
+
+<h2 id='how_it_will_work'>How it will work</h2>
+
+<ul>
+<li>We pick the 1st movie, next ones voted by attendees</li>
+
+<li>Movie announced at least 2 weeks before on site and via email (see form below)</li>
+
+<li>You pay for your own ticket (though we recommend you get a Cineworld Unlimited pass, see below)</li>
+
+<li>Drinks afterwards or before at a nearby pub (TBD)</li>
+
+<li>No need to attend every one of them</li>
+</ul>
+
+<h2 id='sign_up_to_be_notified'>Sign up to be notified</h2>
+<form action='http://barcamplondon.createsend.com/t/r/s/wdilkt/' id='subForm' method='post'>
+  <input id='anything' name='cm-f-akiuik' type='hidden' value='TRUE' />
+  <input id='movies' name='cm-f-ziikjd' type='hidden' value='TRUE' />
+<p>
+  <label for='name'>Name:</label> <input id='name' name='cm-name' type='text' /><br />
+  <label for='wdilkt-wdilkt'>Email:</label> <input id='wdilkt-wdilkt' name='cm-wdilkt-wdilkt' type='text' />
+</p>
+<p>
+  <input type='submit' value='Sign me up!' />
+</p>
+</form>
+<h2 id='what_movies'>What movies?</h2>
+
+<p>These are just some of the great movies still to come in 2012.</p>
+
+<ul>
+<li><a href='http://www.imdb.com/title/tt0948470/'>The Amazing Spiderman</a></li>
+
+<li><a href='http://www.imdb.com/title/tt1345836/'>The Dark Knight Rises</a></li>
+
+<li><a href='http://www.imdb.com/title/tt1386703/'>Total Recall</a></li>
+
+<li><a href='http://www.imdb.com/title/tt1667889/'>Ice Age 4</a></li>
+
+<li><a href='http://www.imdb.com/title/tt1307068/'>Seeking a Friend for the End of the World</a></li>
+
+<li><a href='http://www.imdb.com/title/tt1194173/'>The Bourne Legacy</a></li>
+
+<li><a href='http://www.imdb.com/title/tt1764651/'>The Expendables 2</a></li>
+
+<li><a href='http://www.imdb.com/title/tt1343727/'>Dredd</a></li>
+
+<li><a href='http://www.imdb.com/title/tt1217209/'>Brave</a></li>
+
+<li><a href='http://www.imdb.com/title/tt1397280/'>Taken 2</a></li>
+
+<li><a href='http://www.imdb.com/title/tt1142977/'>Frankenweenie</a></li>
+
+<li><a href='http://www.imdb.com/title/tt1277953/'>Madagascar 3</a></li>
+
+<li><a href='http://www.imdb.com/title/tt1074638/'>James Bond: Skyfall</a></li>
+
+<li><a href='http://www.imdb.com/title/tt0903624/'>The Hobbit: An Unexpected Journey</a></li>
+
+<li><a href='http://www.imdb.com/title/tt0454876/'>Life of Pi</a></li>
+</ul>
+
+<p>And many more on <a href='http://www.imdb.com/calendar/?region=gb'>the calendar</a>.</p>
+
+<h2 id='cineworld_unlimited_1_month_free'>Cineworld Unlimited 1 month free</h2>
+
+<p>If you have a Cineworld near you it might be worth looking at a Cineworld Unlimited pass. For £14.99 a month you get access to all the Cineworlds in the UK (except the ones in the London West End). That&#8217;s less than the cost of 2 tickets at the Cineworld at The O2 Greenwich.</p>
+
+<p>Sign up on <a href='https://www.unlimitedcineworld.com'>unlimitedcineworld.com</a> and use the code below to get 1 month extra (and get some of the Geeks of London crew one month free too):</p>
+
+<p><code>RAF-29LT-50GV-23GP-65KE</code></p>]]></content>
+  </entry>
+  
+</feed>

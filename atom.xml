@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[GeeksOfLondon]]></title>
+  <link href="http://geeksoflondon.github.com/atom.xml" rel="self"/>
+  <link href="http://geeksoflondon.github.com/"/>
+  <updated>2014-07-21T14:01:37+01:00</updated>
+  <id>http://geeksoflondon.github.com/</id>
+  <author>
+    <name><![CDATA[]]></name>
+    <email><![CDATA[info@geeksoflondon.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Environment Hack - Hacking for a better place]]></title>
+    <link href="http://geeksoflondon.github.com/blog/2013/02/25/envhack/"/>
+    <updated>2013-02-25T13:03:00+00:00</updated>
+    <id>http://geeksoflondon.github.com/blog/2013/02/25/envhack</id>
+    <content type="html"><![CDATA[<p>We&#8217;re happy to announce a new event we&#8217;re running in collaboration with the Environment Agency in Bristol. Environment Hack will be bringing together software/hardware developers, Environment Agency experts and interesting data. The goal is to create cool demos that showcase how technology can help us all be more green and environmentally responsible.</p>
+
+<p><a href='http://envhack.com'>Get your ticket now and we will see you in March.</a></p>
+
+<p>On another note, we have 2 more exciting events coming up this year. Put <a href='http://lanyrd.com/2013/bcb13/'>BarCamp Berkshire 2</a> and <a href='http://hacked.io'>HACKED</a> in your diary and we will notify you in time when tickets will become available.</p>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Movie Club #1]]></title>
+    <link href="http://geeksoflondon.github.com/blog/2012/07/11/movie-club-number-1/"/>
+    <updated>2012-07-11T11:23:00+01:00</updated>
+    <id>http://geeksoflondon.github.com/blog/2012/07/11/movie-club-number-1</id>
+    <content type="html"><![CDATA[<p>This Monday we&#8217;re holding the first <strong>Geeks of London Movie Club</strong>. This will be a monthly meetup for fans of movies to get out of the house and enjoy a movie with other geeks.</p>
+
+<p>Our first movie will be <strong>The Amazing Spider-Man</strong>, but the next movies will be chosen by you.</p>
+
+<p><img alt='The Amazing Spider-Man' src='http://geeksoflondon.github.com/images/posts/spiderman.png' /></p>
+
+<h2 id='whenwherewhat'>When/where/what</h2>
+
+<ul>
+<li><a href='http://www.imdb.com/title/tt0948470/'>The Amazing Spider-Man</a> in 3D</li>
+
+<li>Monday July 16th, 20:40, but we&#8217;re doing food before, see below.</li>
+
+<li>On the Sky screen at the <a href='http://www.cineworld.co.uk/cinemas/79'>Cineworld at The O2 Greenwich</a>, which is seriously one of the best screens besides the IMAX.</li>
+
+<li>£13.50 regular entry, but we recommend you get a <a href='http://geeksoflondon.com/blog/2012/06/30/geeks-of-london-movie-club/'>Cineworld Unlimited Pass</a> if you intend to come along more often and already live near a Cineworld.</li>
+</ul>
+
+<h2 id='food'>Food</h2>
+
+<p>Seeing as this movie isn&#8217;t starting very early we decided we should meet up before for food instead of after for drinks.</p>
+
+<ul>
+<li><a href='http://www.wagamama.com/locations/showlocation/730/'>Wagamama @ The O2</a></li>
+
+<li>Monday July 16th, 19:00</li>
+</ul>
+
+<h2 id='rsvp'>RSVP?</h2>
+
+<p>We don&#8217;t have a signup for this event but <a href='http://lanyrd.com/2012/the-geeks-of-london-movie-club-1/'>let us know on Lanyrd if you&#8217;re coming</a>, it would be great to have some numbers.</p>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The Geeks of London Movie Club]]></title>
+    <link href="http://geeksoflondon.github.com/blog/2012/06/30/geeks-of-london-movie-club/"/>
+    <updated>2012-06-30T15:00:00+01:00</updated>
+    <id>http://geeksoflondon.github.com/blog/2012/06/30/geeks-of-london-movie-club</id>
+    <content type="html"><![CDATA[<p>Been missing out on the latest great movies? Not feeling like going to the movies on your own? Introducing: <strong>The Geeks of London Movie Club</strong></p>
+
+<p>Read on or sign up below to get notified of our first outing.</p>
+
+<p><img alt='The Geeks of London Movie Club' src='http://geeksoflondon.github.com/images/posts/gol-movie-club.jpg' /></p>
+
+<h2 id='whenwhere'>When/where</h2>
+
+<ul>
+<li>First movie on Monday July 16th: <a href='http://www.imdb.com/title/tt0948470/'>The Amazing Spiderman</a></li>
+
+<li>After this every last Monday of the month, after work hours</li>
+
+<li>At the <a href='http://www.cineworld.co.uk/cinemas/79'>Cineworld at The O2 Greenwich</a></li>
+</ul>
+
+<h2 id='how_it_will_work'>How it will work</h2>
+
+<ul>
+<li>We pick the 1st movie, next ones voted by attendees</li>
+
+<li>Movie announced at least 2 weeks before on site and via email (see form below)</li>
+
+<li>You pay for your own ticket (though we recommend you get a Cineworld Unlimited pass, see below)</li>
+
+<li>Drinks afterwards or before at a nearby pub (TBD)</li>
+
+<li>No need to attend every one of them</li>
+</ul>
+
+<h2 id='sign_up_to_be_notified'>Sign up to be notified</h2>
+<form action='http://barcamplondon.createsend.com/t/r/s/wdilkt/' id='subForm' method='post'>
+  <input id='anything' name='cm-f-akiuik' type='hidden' value='TRUE' />
+  <input id='movies' name='cm-f-ziikjd' type='hidden' value='TRUE' />
+<p>
+  <label for='name'>Name:</label> <input id='name' name='cm-name' type='text' /><br />
+  <label for='wdilkt-wdilkt'>Email:</label> <input id='wdilkt-wdilkt' name='cm-wdilkt-wdilkt' type='text' />
+</p>
+<p>
+  <input type='submit' value='Sign me up!' />
+</p>
+</form>
+<h2 id='what_movies'>What movies?</h2>
+
+<p>These are just some of the great movies still to come in 2012.</p>
+
+<ul>
+<li><a href='http://www.imdb.com/title/tt0948470/'>The Amazing Spiderman</a></li>
+
+<li><a href='http://www.imdb.com/title/tt1345836/'>The Dark Knight Rises</a></li>
+
+<li><a href='http://www.imdb.com/title/tt1386703/'>Total Recall</a></li>
+
+<li><a href='http://www.imdb.com/title/tt1667889/'>Ice Age 4</a></li>
+
+<li><a href='http://www.imdb.com/title/tt1307068/'>Seeking a Friend for the End of the World</a></li>
+
+<li><a href='http://www.imdb.com/title/tt1194173/'>The Bourne Legacy</a></li>
+
+<li><a href='http://www.imdb.com/title/tt1764651/'>The Expendables 2</a></li>
+
+<li><a href='http://www.imdb.com/title/tt1343727/'>Dredd</a></li>
+
+<li><a href='http://www.imdb.com/title/tt1217209/'>Brave</a></li>
+
+<li><a href='http://www.imdb.com/title/tt1397280/'>Taken 2</a></li>
+
+<li><a href='http://www.imdb.com/title/tt1142977/'>Frankenweenie</a></li>
+
+<li><a href='http://www.imdb.com/title/tt1277953/'>Madagascar 3</a></li>
+
+<li><a href='http://www.imdb.com/title/tt1074638/'>James Bond: Skyfall</a></li>
+
+<li><a href='http://www.imdb.com/title/tt0903624/'>The Hobbit: An Unexpected Journey</a></li>
+
+<li><a href='http://www.imdb.com/title/tt0454876/'>Life of Pi</a></li>
+</ul>
+
+<p>And many more on <a href='http://www.imdb.com/calendar/?region=gb'>the calendar</a>.</p>
+
+<h2 id='cineworld_unlimited_1_month_free'>Cineworld Unlimited 1 month free</h2>
+
+<p>If you have a Cineworld near you it might be worth looking at a Cineworld Unlimited pass. For £14.99 a month you get access to all the Cineworlds in the UK (except the ones in the London West End). That&#8217;s less than the cost of 2 tickets at the Cineworld at The O2 Greenwich.</p>
+
+<p>Sign up on <a href='https://www.unlimitedcineworld.com'>unlimitedcineworld.com</a> and use the code below to get 1 month extra (and get some of the Geeks of London crew one month free too):</p>
+
+<p><code>RAF-29LT-50GV-23GP-65KE</code></p>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[BarCamp London 10?]]></title>
+    <link href="http://geeksoflondon.github.com/blog/2012/06/26/barcamp-london-10/"/>
+    <updated>2012-06-26T15:29:00+01:00</updated>
+    <id>http://geeksoflondon.github.com/blog/2012/06/26/barcamp-london-10</id>
+    <content type="html"><![CDATA[<p>The last 3 years we&#8217;ve been running <a href='http://geeksoflondon.github.com/barcamps'>BarCamp London</a>. Initially as a loose group from the BarCamp community and eventually as Geeks of London. We enjoyed running them but sadly this year it looks like we&#8217;re simply not going to have the time.</p>
+
+<p>Between <a href='http://barcampberkshire.com'>BarCamp Berkshire</a>, some other events we have planned for later in the year, and all of us getting jobs that are more demanding than in previous years, we simply don&#8217;t have the time.</p>
+
+<p>So here&#8217;s a call to arms: <strong>you</strong> should run BarCamp London this year!</p>
+
+<p>We welcome any group of people excited enough to give it a try. We might not be able to help directly but we think we&#8217;ve worked very hard in the last few years to make it easier for someone to take it over from us. We have a large list of regular attendees, the mailing lists, the twitter account, the domains, and most importantly the relationships with our previous sponsors.</p>
+
+<p>So let us know on <a href='info@geeksoflondon.com'>info@geeksoflondon.com</a> if you want to run it this year, we are looking forward to attending your BarCamp London 10!</p>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The London Embassy @ SXSW 2012]]></title>
+    <link href="http://geeksoflondon.github.com/blog/2011/12/07/the-london-embassy-at-sxsw-2012/"/>
+    <updated>2011-12-07T00:00:00+00:00</updated>
+    <id>http://geeksoflondon.github.com/blog/2011/12/07/the-london-embassy-at-sxsw-2012</id>
+    <content type="html"><![CDATA[<p>SXSW is now just under three months away and with hotels filling up fast we are planning to setup a London Embassy in Austin during SXSW Interactive from March 7th to March 14th for fellow Brits and our friends!</p>
+
+<p><a href='http://bit.ly/vnTeNt'>Sign Up for Info</a></p>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Pre-Christmas Photowalk]]></title>
+    <link href="http://geeksoflondon.github.com/blog/2011/12/03/pre-christmas-photowalk/"/>
+    <updated>2011-12-03T00:00:00+00:00</updated>
+    <id>http://geeksoflondon.github.com/blog/2011/12/03/pre-christmas-photowalk</id>
+    <content type="html"><![CDATA[<p>Grab your camera, put on your walking shoes and come on a photowalk down the River Thames!</p>
+
+<p>Who should come on this photowalk? Anyone! Beginners, pros and anyone interesting in learning more about photography are welcome.</p>
+
+<p>Join us! We’ll walk, talk, snap, and learn together.</p>
+
+<p>We’ll meet outside the entrance of the Observatory in Greenwich Park at 13:00. Look for Bryn Salisbury (<a href='https://twimg0-a.akamaihd.net/profile_images/1317588157/n848360174_4588094_7425.jpg'>picture</a>) and Betsy Weber (<a href='http://www.flickr.com/photos/betsyweber/808907839/'>picture</a>).</p>
+
+<p>The route is 15.1km. <a href='http://g.co/maps/yx2wu'>http://g.co/maps/yx2wu</a> and we will end up Westminister for some night photography followed by dinner.</p>
+
+<p>Our hashtag for the walk is: #ldnphotogs</p>
+
+<p>Contact Bryn (<a href='http://twitter.com/bryns'>@bryns</a>) or Betsy (<a href='http://twitter.com/betsyweber'>@betsyweber</a>) with questions or if you want to catch up midway.</p>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[FreeAgent Sponsor]]></title>
+    <link href="http://geeksoflondon.github.com/blog/2011/08/29/freeagent-sponsor/"/>
+    <updated>2011-08-29T00:00:00+01:00</updated>
+    <id>http://geeksoflondon.github.com/blog/2011/08/29/freeagent-sponsor</id>
+    <content type="html"><![CDATA[<p>As Geeks of London is a non-profit we&#8217;re always very happy to see the support from sponsors. We&#8217;re happy to announce that <a href='http://freeagentcentral.com/'>FreeAgent Central</a> is now an official Geeks of London sponsor.</p>
+
+<p><img alt='FreeAgent' src='http://geeksoflondon.github.com/images/sponsors/freeagent.png' /></p>
+
+<p>FreeAgent Central are the developers of FreeAgent, a web-based accounting and money management tool for freelancers and small businesses.</p>
+
+<p>Thousands of freelancers and small businesses are discovering a stress-free way to manage their books and invoicing.</p>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Welcome to the new site!]]></title>
+    <link href="http://geeksoflondon.github.com/blog/2011/08/28/welcome-to-the-new-site/"/>
+    <updated>2011-08-28T00:00:00+01:00</updated>
+    <id>http://geeksoflondon.github.com/blog/2011/08/28/welcome-to-the-new-site</id>
+    <content type="html"><![CDATA[<p>It&#8217;s not fully featured yet and it needs some content, but we are getting there!</p>]]></content>
+  </entry>
+  
+</feed>
